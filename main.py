@@ -1,2 +1,3 @@
-print("Hello world")
-print("Hello world")
+# higth_and_lowe=("1 2 3 4 5") '5 1'
+def higthorlow(str):
+   
